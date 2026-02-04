@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ida Ballegaard
+<img src="./assets/Github_background.svg" alt="Ida Ballegaard – Where code, design and UX come together" />
 
 🎨💻 Web developer with a strong focus on the intersection of **programming, design, and UX**.
 
