@@ -36,6 +36,11 @@ I value thoughtful problem-solving and see code as a tool to support both usabil
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
 </p>
 
+### 🧩 CMS / Platforms
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+</p>
+
 ---
 
 ## 🌱 I’m Currently Learning
