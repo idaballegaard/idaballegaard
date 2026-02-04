@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ida Ballegaard
 
-🎨💻 Web developer with a strong focus on the intersection of **programming, design, and UX**.  
+🎨💻 Web developer with a strong focus on the intersection of **programming, design, and UX**.
+
 I’m driven by creating **well-rounded digital solutions** where code doesn’t just work — it supports a meaningful and intuitive user experience.
 
 I believe the best products are built where **logic meets aesthetics** and where technology serves both the user and the business.
