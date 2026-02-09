@@ -1,4 +1,4 @@
-<img src="./assets/Github_background.svg" alt="Ida Ballegaard – Where code, design and UX come together" />
+<img src="./assets/Github_background_v2.svg" alt="Ida Ballegaard – Where code, design and UX come together" />
 
 <br />
 <br />
